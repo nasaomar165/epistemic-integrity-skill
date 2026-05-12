@@ -3,6 +3,13 @@
 **Version:** 0.3.2  
 **Status:** Validated — 12-model independent evaluation completed
 
+![Version](https://img.shields.io/badge/version-0.3.2-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Models Tested](https://img.shields.io/badge/models%20tested-12-orange)
+![Questions](https://img.shields.io/badge/test%20battery-22%20questions-purple)
+
+![epistemic-integrity-skill banner](preview.png)
+
 ---
 
 ## What This Is
@@ -91,18 +98,7 @@ epistemic-integrity/
     ├── RESULTS.md         ← Full leaderboard, per-question analysis, pattern analysis
     ├── SCORING_CHEATSHEET.md ← Rubric for scoring each question
     └── scorecards/        ← Individual scorecard per model
-        ├── ChatGPT_5.5_Score.md
-        ├── Claude_Sonnet_4.6_Score.md
-        ├── Gemini_3.1_Pro_Score.md
-        ├── DeepSeek_4_Pro_Score.md
-        ├── Qwen_3.6_Plus_Score.md
-        ├── Kimi_K2.6_Score.md
-        ├── MiniMax_M2.7_Score.md
-        ├── Llama_4_Score.md
-        ├── Mistral_Large_3_Score.md
-        ├── Perplexity_Sonar_Score.md
-        ├── GLM_5.1_Score.md
-        └── Grok_4.3_Score.md
+        ├── list of models [...]
 ```
 
 ---
