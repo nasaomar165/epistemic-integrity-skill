@@ -1,7 +1,10 @@
 # MASTER RESULTS — Epistemic Integrity Skill v0.3.2
-# 12 Models | Full battery: 22 tests | Human-scored cold
-# DATE: 2026-05-11 | SCORER: Super Z (with user)
-# ─────────────────────────────────────────────────────────────────────────────
+
+![Models Tested](https://img.shields.io/badge/models%20tested-12%20frontier-orange)
+![Test Battery](https://img.shields.io/badge/test%20battery-22%20questions-purple)
+![Scoring](https://img.shields.io/badge/scoring-human--scored%20cold-red)
+
+**DATE: 2026-05-11 | SCORER: Super Z (with user)**
 
 ## LEADERBOARD
 
