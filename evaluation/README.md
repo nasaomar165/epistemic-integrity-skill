@@ -2,6 +2,9 @@
 
 **12 frontier models | 22 test questions | Human-scored cold**
 
+![Models Tested](https://img.shields.io/badge/models%20tested-12%20frontier-orange)
+![Test Battery](https://img.shields.io/badge/test%20battery-22%20questions-purple)
+![Scoring](https://img.shields.io/badge/scoring-human--scored%20cold-red)
 ---
 
 ## Quick Summary
