@@ -6,8 +6,6 @@
 ![Test Battery](https://img.shields.io/badge/test%20battery-22%20questions-purple)
 ![Scoring](https://img.shields.io/badge/scoring-human--scored%20cold-red)
 
----
-
 ## Quick Summary
 
 | Rank | Model | Score | % | Grade |
